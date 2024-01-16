@@ -1,0 +1,60 @@
+.t7 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: bisque;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+/* // Pembungkus utama */
+.t0 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 700px;
+  max-width: 658px;
+}
+.t9 {
+  display: flex;
+  gap: 10px;
+  font-size: 10px;
+  background-color: antiquewhite;
+  width: 200px;
+  justify-content: center;
+}
+
+.o1 {
+  display: flex;
+  gap: 10px;
+  font-size: 10px;
+}
+.o2 {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  font-size: 10px;
+}
+.o3 {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.t10 {
+  display: flex;
+  width: 100%;
+}
+.t3 {
+  display: flex;
+  width: 700px;
+}
+.foto {
+  max-width: 45%;
+}
+
+.as1 {
+  display: flex;
+  gap: 20px;
+}
